@@ -1,0 +1,4 @@
+io\cucumber\vm\InventoryItem.class
+io\cucumber\vm\VendingMachine.class
+io\cucumber\vm\Coins.class
+io\cucumber\vm\Product.class

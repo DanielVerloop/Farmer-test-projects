@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: io.cucumber.vm.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 8, Errors: 0, Skipped: 8, Time elapsed: 0.57 sec <<< FAILURE!
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "chips" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "chocolate" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "cookie" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "candy" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "juice" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "water" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "coke" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
+Have Product and user to receive change(Vending Machine)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at io.cucumber.vm.StepDefs.theInventoryStockOfProductMustBeEqualToArg0Units(StepDefs.java:58)
+	at ✽.the inventory stock of "pepsi" must be equal to 9 units(classpath:io/cucumber/vm/vm.feature:49)
+
